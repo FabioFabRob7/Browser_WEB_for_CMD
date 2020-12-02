@@ -10,7 +10,7 @@
 - Internet
 
 ### INFO
-This program browses the web by displaying everything contained in the HTML5 page "header" tag and links
+This program browses the web by displaying everything contained in the HTML5 page "body" tag and links
 
 ### INSTRUCTIONS
 - Open the Browser_WEB_for_CMD.py file with Python
@@ -28,7 +28,7 @@ This program browses the web by displaying everything contained in the HTML5 pag
 - Internet
 
 ### INFO
-Questo programma fa navigare sul web visualizzando tutto quello contenuto nel tag "header" della pagina HTML5 e link
+Questo programma fa navigare sul web visualizzando tutto quello contenuto nel tag "body" della pagina HTML5 e link
 
 ### ISTRUZIONI
 - Aprite con Python il file Browser_WEB_for_CMD.py
