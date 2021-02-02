@@ -14,7 +14,7 @@ This program browses the web by displaying everything contained in the HTML5 pag
 - In CMD or PowerShell type `python <dir of Browser_WEB_for_CMD.py` or `<dir python> <dir of Browser_WEB_for_CMD.py`
 - Enter the web page you want to view
 ##### If you want to load another page within the displayed site:
-- Press a number from 0 onwards to select a link from the list of links; 0 is the first link
+- Press a number from 1 onwards to select a link from the list of links
 ##### Otherwise
 - Type exit to exit the program
 #### LINUX
@@ -23,6 +23,6 @@ This program browses the web by displaying everything contained in the HTML5 pag
 - And then type `python3 <dir of Browser_WEB_for_CMD.py`
 - Enter the web page you want to view
 ##### If you want to load another page within the displayed site:
-- Press a number from 0 onwards to select a link from the list of links; 0 is the first link
+- Press a number from 1 onwards to select a link from the list of links
 ##### Otherwise
 - Type exit to exit the program
