@@ -11,7 +11,7 @@ This program browses the web by displaying everything contained in the HTML5 pag
 #### WINDOWS
 - Install Python 3.x https://www.python.org/
 - Open CMD or PowerShell and type `pip install beautifulsoup4 lxml requests` or `<dir pip> install beautifulsoup4 lxml requests`
-- In CMD or PowerShell type `python <dir of Browser_WEB_for_CMD.py` or `<dir python> <dir of Browser_WEB_for_CMD.py`
+- In CMD or PowerShell type `python <dir of Browser_WEB_for_CMD.py` or `<dir python> <dir of Browser_WEB_for_CMD.py>`
 - Enter the web page you want to view
 ##### If you want to load another page within the displayed site:
 - Press a number from 1 onwards to select a link from the list of links
@@ -20,7 +20,7 @@ This program browses the web by displaying everything contained in the HTML5 pag
 #### LINUX
 - Open Terminal and type `sudo apt install python3`
 - In Terminal type `pip install beautifulsoup4 lxml requests`
-- And then type `python3 <dir of Browser_WEB_for_CMD.py`
+- And then type `python3 <dir of Browser_WEB_for_CMD.py>`
 - Enter the web page you want to view
 ##### If you want to load another page within the displayed site:
 - Press a number from 1 onwards to select a link from the list of links
